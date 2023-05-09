@@ -1,0 +1,13 @@
+.side-bar-item{
+    display: flex;
+    gap: 10px;
+    background-color: rgb(240, 235, 235);
+    padding: 1rem;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+
+.side-bar-item p {
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
